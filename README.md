@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Maguette Sow
+# Bonjour, je suis Maguette Sow
 
 🎓 Étudiante en **Master 1 Ingénierie Logicielle** à l’Université Numérique Cheikh Hamidou Kane, après avoir obtenu ma **Licence en Informatique, Développement Web Mobile**.  
 💻 Passionnée par le **développement web & logiciel**, je construis des projets académiques et personnels pour progresser et mettre en pratique mes compétences.  
@@ -42,4 +42,4 @@
 
 ---
 
-✨ Mon objectif : **devenir une développeuse polyvalente**, capable de contribuer à des projets innovants en développement web et logiciel.
+ Mon objectif : **devenir une développeuse polyvalente**, capable de contribuer à des projets innovants en développement web et logiciel.
